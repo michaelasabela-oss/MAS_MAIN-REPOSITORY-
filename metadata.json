@@ -1,0 +1,6 @@
+{
+  "name": "Byaheng Pinoy: Philippine Truck Simulator & Logistics",
+  "description": "Realistic 3D truck simulator featuring 2026 modern commercial heavy vehicles, Metro Manila & Philippine provincial expressways, heavy vehicle physics, garage customization, educational mechanics, cargo mini-games, and route sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
